@@ -1,0 +1,15 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "description": "A web service that accepts API requests of any type/endpoint and prints the payload",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "author": ""
+}
